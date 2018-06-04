@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_home">#FFFFFF</color>
+    <color name="button_home_text">#FBFCFC</color>
+    <color name="red_disable">#FADBD8</color>
+    <color name="red_active">#CC0000</color>
+    <color name="green_disable">#D5F5E3</color>
+    <color name="green_active">#239B56</color>
+    <color name="return_home_page">#E74C3C</color>
+    <color name="update">#2E86C1</color>
+    <color name="grey">#5D6D7E</color>
+</resources>

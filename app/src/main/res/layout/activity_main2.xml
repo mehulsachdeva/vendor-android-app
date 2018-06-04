@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="CUSTOMER WHAT DO YOU WANT?"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:id="@+id/text_head_activity2"
+        android:textSize="22sp"
+        android:textAlignment="center" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="22dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/get_bill"
+        android:textColor="#FDFEFE"
+        android:text="CHECK OUT" />
+
+
+    <ListView
+        android:layout_marginTop="35dp"
+        android:id="@+id/listView1"
+        android:layout_marginBottom="45dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+
+
+
+</RelativeLayout>

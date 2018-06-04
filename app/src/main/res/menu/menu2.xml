@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/credits"
+        android:title="Credits"
+        app:showAsAction="never"
+        android:orderInCategory="4" />
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        app:showAsAction="never"
+        android:orderInCategory="3" />
+
+    <item
+        android:id="@+id/clear_db_bill"
+        android:title="Clear Existing Bill"
+        app:showAsAction="never"
+        android:orderInCategory="2" />
+
+    <item
+        android:id="@+id/order_history"
+        android:title="Order History"
+        app:showAsAction="never"
+        android:orderInCategory="1" />
+
+</menu>
